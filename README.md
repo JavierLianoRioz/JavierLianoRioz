@@ -3,23 +3,14 @@
 <h3 align="center">Creador de contenido en internet</h3>
 
 - 🔭 Actualmente trabajo en [mis redes sociales](https://destlink.com/soymidas)
-
-- 🌱 Actualmente estoy estudiando **Bachiller, HTML y CSS**
-
+- 🌱 Actualmente estoy estudiando en la **Universidad del Atlantico**
 - 👯 Estoy trabajando para colaborar con **la mayor parte de personas posibles**
-
 - 🤝 Busco ayuda para **crear, mejorar y suministrar ideas**
-
 - 👨‍💻 Todos mis trabajos estan disponibles en [Portafolios]()
-
 - 📝 Normalmente estoy activo en [Instagram](https://www.instagram.com/soymidaswolf/)
-
 - 💬 Preguntadme sobre **HTML y CSS**
-
 - 📫 ¿Como me encuentras? **soymidaswolf@gmail.com**
-
 - 📄 Conoce un poco más sobre mí: [About Me]()
-
 - ⚡ Fun fact **Me gusta tu mama 👉👈**
 
 <h3 align="left">Connect with me:</h3>
