@@ -9,7 +9,7 @@
 - 👨‍💻 Todos mis trabajos estan disponibles en [Portafolios]()
 - 📝 Normalmente estoy activo en [Instagram](https://www.instagram.com/soymidaswolf/)
 - 💬 Preguntadme sobre **HTML y CSS**
-- 📫 ¿Como me encuentras? **soymidaswolf@gmail.com**
+- 📫 ¿Como me encuentras? **symidas@proton.me**
 - 📄 Conoce un poco más sobre mí: [About Me]()
 - ⚡ Fun fact **Me gusta tu mama 👉👈**
 
