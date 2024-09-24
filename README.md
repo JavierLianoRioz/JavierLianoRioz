@@ -6,12 +6,8 @@
 - 🌱 Actualmente estoy estudiando en la **Universidad del Atlantico**
 - 👯 Estoy trabajando para colaborar con **la mayor parte de personas posibles**
 - 🤝 Busco ayuda para **crear, mejorar y suministrar ideas**
-- 👨‍💻 Todos mis trabajos estan disponibles en [Portafolios]()
-- 📝 Normalmente estoy activo en [Instagram](https://www.instagram.com/soymidaswolf/)
-- 💬 Preguntadme sobre **HTML y CSS**
+- 📝 Normalmente estoy activo en [Instagram](https://www.instagram.com/javierlia55/)
 - 📫 ¿Como me encuentras? **symidas@proton.me**
-- 📄 Conoce un poco más sobre mí: [About Me]()
-- ⚡ Fun fact **Me gusta tu mama 👉👈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
