@@ -19,7 +19,7 @@
   🌱 Estudiante en la <strong>Universidad del Atlantico</strong>.<br>
   🤝 Abierto a colaborar en proyectos innovadores. <strong>¡Hagamos algo increíble juntos!</strong><br>
   📝 Siempre activo en <a href="https://www.instagram.com/javierlia55/"><strong>Instagram</strong></a>, ¡sígueme!<br>
-  📫 Contáctame por email: <strong>soy@midas.earth</strong>
+  📫 Contáctame por email: <strong>soy@midasdev.es</strong>
 </p>
 
 ---
@@ -47,9 +47,8 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <!-- ¡IMPORTANTE! Cambia el ?username=soymidas por tu usuario de GitHub -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soymidas&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Midas" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soymidas&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Midas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierlianorioz&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Midas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierlianorioz&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Midas" />
 </p>
 
 ---
