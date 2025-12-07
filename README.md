@@ -45,15 +45,6 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierlianorioz&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Midas" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierlianorioz&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Midas" />
-</p>
-
----
-
 ### 🔗 Conecta Conmigo
 
 <p align="center">
